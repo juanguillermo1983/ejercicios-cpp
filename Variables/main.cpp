@@ -10,6 +10,7 @@ string nombreGlobal = "JuanGuillermo";
 
 int main()
 {
+    // para los nombre de las variables solo pueden iniciar con letras y _ 
     int edad;
     edad = 40;
     int numero {22};  // otra forma de asignar en c++
