@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
-    int numero;
-    numero = 5;
-    cout << numero << endl;
+    int edad;
+    edad = 40;
+    string nombre = "Juanito";
+    cout << "Mi nombre es " << nombre << " mi edad es " << edad << " años" << endl;
+
     return 0;
 }
