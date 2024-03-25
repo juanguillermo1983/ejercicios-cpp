@@ -1,0 +1,10 @@
+# Ignorar todos los archivos, excepto .cpp, .h, .sln, .vcxproj, .filters, y .user
+*
+
+# Permitir carpetas
+!*/
+
+# Permitir archivos de código fuente (.cpp), archivos de encabezado (.h), archivos de solución (.sln), proyectos (.vcxproj), filtros (.filters), y archivos de usuario (.user) en cada carpeta
+!*/**.cpp
+!*/**.h
+!.gitignore
